@@ -4,11 +4,6 @@ The Nestable Readable Document Language
 
 |---------+----------------------------------|
 | source  | git:https://git.sr.ht/~skin/nrdl |
-<<<<<<< HEAD
 | commit  | e78f7a8                          |
-| systems | com.djhaskin.nrdl                |
-=======
-| commit  | 42bd470                          |
 | systems | com.djhaskin.pcoll               |
->>>>>>> f08c7c1 (Change the system name)
 |---------+----------------------------------|
