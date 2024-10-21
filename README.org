@@ -4,6 +4,6 @@ The Nestable Readable Document Language
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/djha-skin/nrdl.git |
-| commit  | 5b17429                                   |
+| commit  | a2c0023                                   |
 | systems | com.djhaskin.nrdl                         |
 |---------+-------------------------------------------|
